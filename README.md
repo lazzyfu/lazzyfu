@@ -9,5 +9,3 @@
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=lazzyfu&show_icons=true&theme=merko) 
 
-- name: Profile Readme Development Stats
-  uses: anmol098/waka-readme-stats@V3
