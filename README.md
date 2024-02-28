@@ -1,4 +1,4 @@
-## <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi there!
+## <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi ~
 
 ### About Me
 小小武陵捕鱼人，一位爱折腾的DBA。
